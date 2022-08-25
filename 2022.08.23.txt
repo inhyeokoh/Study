@@ -1,0 +1,1 @@
+변수는 var 을 표기하는 것이 좀 더 깔끔하게 보여짐 ex) var name = 'fruit'
