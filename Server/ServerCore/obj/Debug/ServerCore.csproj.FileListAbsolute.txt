@@ -1,0 +1,7 @@
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\bin\Debug\ServerCore.exe.config
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\bin\Debug\ServerCore.exe
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\bin\Debug\ServerCore.pdb
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\obj\Debug\ServerCore.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\obj\Debug\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\obj\Debug\ServerCore.exe
+C:\Users\82109\Documents\Github Desktop\Study\Server\ServerCore\obj\Debug\ServerCore.pdb
