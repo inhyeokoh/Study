@@ -13,7 +13,10 @@ namespace ServerCore
         {
             for (int i = 0; i < 50000; i++)
             {
-                Interlocked.Increment(ref number);
+                lock (_obj)
+                {
+                    number++;
+                }
             }
         }
 
@@ -21,7 +24,10 @@ namespace ServerCore
         {
             for (int i = 0; i < 50000; i++)
             {
-                Interlocked.Decrement(ref number);
+                lock (_obj)
+                {
+                    number--;
+                }
             }
         }
 
