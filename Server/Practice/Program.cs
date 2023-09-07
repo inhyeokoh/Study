@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ServerCore
+namespace Practice
 {
     class Program
     {
